@@ -1,0 +1,39 @@
+body{
+    background: #AB1346;
+}
+.toparea{
+    background: #AB1346;
+    padding: 10px 0;
+    color: #fff;
+    text-align: center;
+}
+.toparea p{
+    margin: 0;
+}
+.container-fluid{
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+    background: #fff;
+
+}
+.container-fluid img{
+    max-width: 100%;
+    height:auto;
+}
+/* .titletop{
+    text-align: center;
+} */
+.menuarea{
+    background: #F8F9FA;
+    word-spacing: 15px;
+    text-align: center;
+    margin-top: 2px;
+}
+.menuarea:last-child{
+    background-color: #AB1346;
+}
+.slidearea{
+    margin-top: 2px;
+    background: #fff;
+}
